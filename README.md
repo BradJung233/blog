@@ -1,5 +1,7 @@
 # blog
 
+# 코딩애플 센세
+
 ## Project setup
 ```
 npm install
